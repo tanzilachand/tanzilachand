@@ -23,19 +23,19 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 
 [**Global-_AI_Job_Market_Salary_Trends_2025**](https://github.com/tanzilachand/Global-_AI_Job_Market_Salary_Trends_2025)- 
 
-Predictive models for salary/hiring trends: 85% prediction accuracy 
+- Predictive models for salary/hiring trends: 85% prediction accuracy 
 
-Built forecasting models and Power BI dashboards to support strategic workforce and hiring decisions across regions, mirroring market insights & planning use-cases 
+- Built forecasting models and Power BI dashboards to support strategic workforce and hiring decisions across regions, mirroring market insights & planning use-cases 
 
-Geographic dashboards (Power BI): 5+ market insights 
+- Geographic dashboards (Power BI): 5+ market insights 
 
-Documented analysis and findings clearly for others to reuse the work 
+- Documented analysis and findings clearly for others to reuse the work 
 
-Developed interactive Power BI dashboards for HR and management to monitor salary trends and hiring demand by region and role 
+- Developed interactive Power BI dashboards for HR and management to monitor salary trends and hiring demand by region and role 
 
-Tech: Python, Scikit-learn, SQL, K-Means Clustering   
+***Tech:*** Python, Scikit-learn, SQL, K-Means Clustering   
 
-Online-Retail-Analysis - marketing & customer analytics: - [GitHub Link] 
+[**Online-Retail-Analysis - marketing & customer analytics**](https://github.com/tanzilachand/Online-Retail-Analysis) 
 
 Analyzed 500k+ transactions: Top 10 products, RFM segmentation, country insights 
 
@@ -45,7 +45,7 @@ Interactive dashboards (Tableau): Revenue trends, customer retention, inventory 
 
 Tech: Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
 
-Cybersecurity-Threat-Analysis [GitHub Link]  
+[**Cybersecurity-Threat-Analysis**](https://github.com/tanzilachand/Cybersecurity-Threat-Analysis)  
 
 Anomaly detection via K-Means/PCA: 95% detection accuracy 
 
