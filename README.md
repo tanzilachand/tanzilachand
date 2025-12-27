@@ -14,8 +14,8 @@
 - Dashboards & insights from real datasets
 
 ### 💼 Contact Me
-📫 Email: your-email@example.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+📫 Email: tanzila.chand@gmail.com
+🔗 LinkedIn: (https://www.linkedin.com/in/tanzila-chand/)
 
 ---
 
