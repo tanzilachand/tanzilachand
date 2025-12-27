@@ -38,9 +38,13 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 - Built revenue and retention dashboards for ecommerce store; analyzed campaign- and country-level performance; identified top customer segments for targeted marketing 
 
 - Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
+
 ***Tech:*** Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
 
 ![Online-Retail-Analysis - marketing & customer analytics](./Images/Online%20Retail%20Dashboard.png)
+### Overall Dashboard
+<img src="(./Images/Online%20Retail%20Dashboard.png" alt="Dashboard Overview" width="800">
+
 
 
 
