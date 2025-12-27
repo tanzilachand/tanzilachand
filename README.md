@@ -15,11 +15,7 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 - **Tools:** VS Code, Excel, Jupyter Notebook, GitHub, SPSS 
 
 ### What I’m Working On
-#### Project-portfolio 
-
- 
-
- 
+#### Featured Projects
 
 [**Global-_AI_Job_Market_Salary_Trends_2025**](https://github.com/tanzilachand/Global-_AI_Job_Market_Salary_Trends_2025)- 
 
@@ -37,22 +33,20 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 
 [**Online-Retail-Analysis - marketing & customer analytics**](https://github.com/tanzilachand/Online-Retail-Analysis) 
 
-Analyzed 500k+ transactions: Top 10 products, RFM segmentation, country insights 
+- Analyzed 500k+ transactions: Top 10 products, RFM segmentation, country insights 
 
-Built revenue and retention dashboards for ecommerce store; analyzed campaign- and country-level performance; identified top customer segments for targeted marketing 
+- Built revenue and retention dashboards for ecommerce store; analyzed campaign- and country-level performance; identified top customer segments for targeted marketing 
 
-Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
-
-Tech: Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
+- Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
+***Tech:*** Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
 
 [**Cybersecurity-Threat-Analysis**](https://github.com/tanzilachand/Cybersecurity-Threat-Analysis)  
 
-Anomaly detection via K-Means/PCA: 95% detection accuracy 
+- Anomaly detection via K-Means/PCA: 95% detection accuracy 
 
-Interactive dashboards (Plotly/Power BI), scalable ETL pipeline 
+- Interactive dashboards (Plotly/Power BI), scalable ETL pipeline 
 
-Implemented ETL pipeline from raw log files into structured tables using Python 
-
+- Implemented ETL pipeline from raw log files into structured tables using Python       
 Built Power BI dashboards highlighting anomaly scores and incident trends for non-technical security stakeholders 
 
 Tech: Python, Scikit-learn, EDA, Feature Engineering 
@@ -60,10 +54,6 @@ Tech: Python, Scikit-learn, EDA, Feature Engineering
 
 ### 💼 Contact Me
 📫 Email: tanzila.chand@gmail.com
+
 🔗 LinkedIn: (https://www.linkedin.com/in/tanzila-chand/)
-
----
-
-### 📌 Featured Projects
-(You’ll add these soon — see below)
-
+🌐 Portfolio: (https://tanzilachand.github.io/Portfolio/)
