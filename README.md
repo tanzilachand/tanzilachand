@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Tanzila 👋
+**Aspiring Data Analyst**
 
-<!--
-**tanzilachand/tanzilachand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I analyse data to find insights and solve real problems.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- **Data Analysis:** Python (Pandas, NumPy), SQL
+- **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (if you use)
+- **Tools:** Excel, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m Working On
+- Data Cleaning & EDA projects
+- SQL analytics case studies
+- Dashboards & insights from real datasets
+
+### 💼 Contact Me
+📫 Email: your-email@example.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+### 📌 Featured Projects
+(You’ll add these soon — see below)
+
