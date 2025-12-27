@@ -40,7 +40,7 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 - Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
 ***Tech:*** Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
 
-![Online-Retail-Analysis - marketing & customer analytics](D:\Documents\TC Tanzila\Git Profile\tanzilachand\Images\Online Retail Dashboard.png)
+![Online-Retail-Analysis - marketing & customer analytics](./Images/Online%20Retail%20Dashboard.png)
 
 
 
