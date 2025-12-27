@@ -15,9 +15,47 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 - **Tools:** VS Code, Excel, Jupyter Notebook, GitHub, SPSS 
 
 ### What I’m Working On
-- Data Cleaning & EDA projects
-- SQL analytics case studies
-- Dashboards & insights from real datasets
+#### Project-portfolio 
+
+ 
+
+ 
+
+Global-_AI_Job_Market_Salary_Trends_2025 [GitHub Link]- 
+
+Predictive models for salary/hiring trends: 85% prediction accuracy 
+
+Built forecasting models and Power BI dashboards to support strategic workforce and hiring decisions across regions, mirroring market insights & planning use-cases 
+
+Geographic dashboards (Power BI): 5+ market insights 
+
+Documented analysis and findings clearly for others to reuse the work 
+
+Developed interactive Power BI dashboards for HR and management to monitor salary trends and hiring demand by region and role 
+
+Tech: Python, Scikit-learn, SQL, K-Means Clustering   
+
+Online-Retail-Analysis - marketing & customer analytics: - [GitHub Link] 
+
+Analyzed 500k+ transactions: Top 10 products, RFM segmentation, country insights 
+
+Built revenue and retention dashboards for ecommerce store; analyzed campaign- and country-level performance; identified top customer segments for targeted marketing 
+
+Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
+
+Tech: Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
+
+Cybersecurity-Threat-Analysis [GitHub Link]  
+
+Anomaly detection via K-Means/PCA: 95% detection accuracy 
+
+Interactive dashboards (Plotly/Power BI), scalable ETL pipeline 
+
+Implemented ETL pipeline from raw log files into structured tables using Python 
+
+Built Power BI dashboards highlighting anomaly scores and incident trends for non-technical security stakeholders 
+
+Tech: Python, Scikit-learn, EDA, Feature Engineering 
 
 
 ### 💼 Contact Me
