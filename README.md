@@ -1,17 +1,27 @@
 # Hi, I'm Tanzila 👋
 **Aspiring Data Analyst**
 
-📊 I analyse data to find insights and solve real problems.
+Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and experience with complex data. Skilled in Python, SQL, Power BI and Tableau to build dashboards, and data‑driven decision‑making. Experienced in communicating insights clearly to non‑technical stakeholders, backed by a GitHub portfolio of end‑to‑end projects.  
 
-### 🔧 Skills
+### Skills
 - **Data Analysis:** Python (Pandas, NumPy), SQL
 - **Visualization:** Matplotlib, Seaborn, Power BI / Tableau (if you use)
 - **Tools:** Excel, Jupyter Notebook
+- Databases & SQL: SQL (joins, window functions, CTEs), relational modelling, query optimization 
 
-### 🧠 What I’m Working On
+Data Engineering: ETL pipelines, data cleaning and transformation with Python/SQL 
+
+Programming: Python (advanced: pandas, NumPy, Scikit-learn), R, Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly  
+
+Machine Learning: Regression, Classification, Clustering (K-Means, PCA) 
+
+Tools: VS Code, Excel, Jupyter Notebook, GitHub, SPSS 
+
+### What I’m Working On
 - Data Cleaning & EDA projects
 - SQL analytics case studies
 - Dashboards & insights from real datasets
+
 
 ### 💼 Contact Me
 📫 Email: tanzila.chand@gmail.com
