@@ -39,6 +39,10 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 
 - Interactive dashboards (Tableau): Revenue trends, customer retention, inventory optimization 
 ***Tech:*** Python (Pandas/NumPy), Matplotlib/Seaborn/Plotly, Tableau 
+![Online-Retail-Analysis - marketing & customer analytics](D:\Documents\TC Tanzila\Git Profile\tanzilachand\Images\Online Retail Dashboard.png)
+
+
+
 
 [**Cybersecurity-Threat-Analysis**](https://github.com/tanzilachand/Cybersecurity-Threat-Analysis)  
 
@@ -49,11 +53,10 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 - Implemented ETL pipeline from raw log files into structured tables using Python       
 Built Power BI dashboards highlighting anomaly scores and incident trends for non-technical security stakeholders 
 
-Tech: Python, Scikit-learn, EDA, Feature Engineering 
+***Tech:*** Python, Scikit-learn, EDA, Feature Engineering 
 
 
 ### 💼 Contact Me
 📫 Email: tanzila.chand@gmail.com
-
 🔗 LinkedIn: (https://www.linkedin.com/in/tanzila-chand/)
-🌐 Portfolio: (https://tanzilachand.github.io/Portfolio/)
+🌐 Portfolio: (https://github.com/tanzilachand)
