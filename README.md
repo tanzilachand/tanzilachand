@@ -21,7 +21,7 @@ Data Analyst with M.Sc. Environmental Sciences, AI/Data Analytics training and e
 
  
 
-Global-_AI_Job_Market_Salary_Trends_2025 [GitHub Link]- 
+**Global-_AI_Job_Market_Salary_Trends_2025** [GitHub Link](https://github.com/tanzilachand/Global-_AI_Job_Market_Salary_Trends_2025)- 
 
 Predictive models for salary/hiring trends: 85% prediction accuracy 
 
